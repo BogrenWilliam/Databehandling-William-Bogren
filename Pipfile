@@ -11,6 +11,8 @@ ipykernel = "*"
 black = "*"
 seaborn = "*"
 openpyxl = "*"
+python-dotenv = "*"
+requests = "*"
 
 [dev-packages]
 
