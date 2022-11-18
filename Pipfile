@@ -18,6 +18,7 @@ dash-bootstrap-components = "*"
 plotly = "*"
 plotly-express = "*"
 nbformat = "*"
+numexpr = "*"
 
 [dev-packages]
 
